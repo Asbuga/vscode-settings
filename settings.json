@@ -1,0 +1,22 @@
+{
+  "editor.rulers": [80, 120],
+
+  "terminal.integrated.profiles.windows": {
+    "Cmder": {
+      "path": "cmd",
+      "args": ["/k", "h:\\Objects22\\other\\programs\\WPy64-38100\\t\\cmder\\vendor\\init.bat"]
+    },
+    
+    "GIT": {
+      "path": "H:\\Objects22\\other\\programs\\WPy64-38100\\t\\cmder\\vendor\\git-for-windows\\git-cmd.exe",
+    },
+
+    "Python": {
+      "path": "h:\\Objects22\\other\\programs\\WPy64-38100\\python-3.8.10.amd64\\python.exe"
+    }
+  },
+  
+  "git.enabled": true,
+
+  "terminal.integrated.defaultProfile.windows": "Cmder"
+}
