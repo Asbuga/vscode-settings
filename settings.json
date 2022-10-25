@@ -1,0 +1,20 @@
+{
+  "editor.rulers": [80],
+
+  "terminal.integrated.profiles.windows": {
+    "Cmder": {
+      "path": "C:\\Windows\\system32\\cmd.exe",
+      "args": ["/k", "h:\\Objects22\\other\\programs\\WPy64-38100\\t\\cmder\\vendor\\init.bat"]
+    },
+    
+    "GIT": {
+      "path": "H:\\Objects22\\other\\programs\\WPy64-38100\\t\\cmder\\vendor\\git-for-windows\\git-cmd.exe",
+    }
+  },
+  
+  "git.enabled": true,
+
+  "terminal.integrated.defaultProfile.windows": "Cmder",
+  "explorer.confirmDelete": false,
+
+}
